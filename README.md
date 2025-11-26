@@ -3,7 +3,6 @@ Local Music Player
 A clean and modern Flutter-based local music player built as part of the internship assessment.
 The app scans your device for MP3 files, displays metadata & album art, and provides a smooth, interactive audio playback experience.
 
-<p align="center"> <img src="screenshot.png" width="260"> </p>
 🚀 Features
 
 🎵 Automatic music scan
@@ -56,4 +55,10 @@ path_provider
 
 📱 Screenshots
 
-Add 2–3 screenshots here for more impact.
+<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/c4c2bb14-7ebd-42d5-9015-c3d601f8184f" />
+<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/e51da7cc-31e7-42a4-8ed9-e8d2eb465979" />
+<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/21bf3614-ee55-493a-86e1-63498968400a" />
+<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/d72ec929-fea8-48be-a8da-a737a94dfd64" />
+
+
+
