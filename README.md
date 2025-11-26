@@ -53,12 +53,15 @@ permission_handler
 
 path_provider
 
-📱 Screenshots
+## 📱 Screenshots
 
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/c4c2bb14-7ebd-42d5-9015-c3d601f8184f" />
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/e51da7cc-31e7-42a4-8ed9-e8d2eb465979" />
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/21bf3614-ee55-493a-86e1-63498968400a" />
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/d72ec929-fea8-48be-a8da-a737a94dfd64" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4c2bb14-7ebd-42d5-9015-c3d601f8184f" width="220" />
+  <img src="https://github.com/user-attachments/assets/e51da7cc-31e7-42a4-8ed9-e8d2eb465979" width="220" />
+  <img src="https://github.com/user-attachments/assets/21bf3614-ee55-493a-86e1-63498968400a" width="220" />
+  <img src="https://github.com/user-attachments/assets/d72ec929-fea8-48be-a8da-a737a94dfd64" width="220" />
+</p>
+
 
 
 
